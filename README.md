@@ -34,7 +34,7 @@ A small script to evaluate password strength, provide feedback, and generate a S
 Clone and run locally:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Aayushyadv/password-strength-analyzer.git
 cd password-strength-analyzer
 ```
 
